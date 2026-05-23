@@ -1,6 +1,0 @@
-[theme]
-primaryColor = "hsla(60, 35%, 56%, 1.00)"          # Rouge principal
-backgroundColor = "#fffeeaff"       
-secondaryBackgroundColor = "#caca5eef" # Bleu clair (cartes)
-textColor = "#0F172A"             # Texte foncé
-font = "sans serif"
